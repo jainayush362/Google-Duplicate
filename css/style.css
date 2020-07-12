@@ -1,0 +1,44 @@
+.container{
+	margin-top: 200px;
+}
+.search-bar{
+	border-radius: 100px;
+	padding: 10px 15px;
+}
+.btn{
+	margin: 10px;
+}
+.btn-light{
+	background-color: #f4f4f4;
+	color: #5f6368;
+}
+a{
+	color: black;
+	text-decoration: underline;
+}
+a:hover {
+  color: #5f6368;
+}
+.logo-subtext {
+    color: #4285f4;
+    font: 16px/16px roboto-regular, arial, sans-serif;
+    position: absolute;
+    top: 275px;
+    white-space: nowrap;
+}
+.bg{
+	background-color: #f1f1f1;
+}
+.form-head{
+	padding: 80px;
+	color: #d93025;
+	padding-bottom: 15px;
+	border-bottom-style: solid;
+	border-width: 1px;
+	border-color: #f1f1f1;
+}
+.form-content{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
